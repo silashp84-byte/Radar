@@ -1,0 +1,6 @@
+{
+  "name": "Radar de Oportunidades",
+  "description": "Detecte oportunidades reais de lucro baseadas em tendências, mercado e localização com IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI Analysis", "Real-time Trends", "Local Opportunities"]
+}
